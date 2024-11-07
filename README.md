@@ -1,4 +1,4 @@
-# Clock Component Project for Interface Development (ComponenteRelojBean)
+# Clock component project for interface development (ComponenteRelojBean)
 
 This project demonstrates the use of a custom Java Swing clock component, `ComponenteRelojBean`, built as part of an educational exercise for interface development. The clock component (`ComponenteRelojBean`) is designed to function as a JavaBean, providing a visual real-time clock display and an alarm feature that notifies the user when the specified time is reached. 
 
